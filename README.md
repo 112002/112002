@@ -18,12 +18,12 @@ Here are some ideas to get you started:
  <h4 align="center">I Build Me!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupoorraj" alt="Nupoor Raj" /></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nupoorraj/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dhairyaostwal/)
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dhairyaostwal)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nupoorraj/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NupoorRaj)
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@nupoorraj444)
 
 ### 2 Minutes to Describe Me 
 
-<img src="https://img.shields.io/badge/-html-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-css-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-nodejs-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQl-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-POSTGRESQL-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Adobe--xd-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIGMA-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-bootstrap-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-html-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-css-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-nodejs-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQl-red?style=for-the-badge"> 
 
 ### This year also worked on
 
