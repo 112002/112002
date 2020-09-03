@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### What I want to learn
 
-<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge"> <img src="https://img.shields.io/badge/-blockchain-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON--Scripting-e1ad01?style=for-the-badge">
+<img src="https://img.shields.io/badge/-PYTHON-ffae42?style=for-the-badge"> <img src="https://img.shields.io/badge/-Fixing Bugs-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-Node js-e1ad01?style=for-the-badge">
 
 ### What else I love
 
