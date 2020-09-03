@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Nupoor Raj.</h1>
-` <h4 align="center">A Business Developement Manager turned Software Developer.</h3>
+ <h4 align="center">I build me!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyaostwal" alt="Dhairya Ostwal" /></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhairyaostwal/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dhairyaostwal/)
