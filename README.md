@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### What else I love
 
-<img src="https://img.shields.io/badge/-Business Development-7f1734?style=for-the-badge"> <img src="https://img.shields.io/badge/-Product Management-ff2400?style=for-the-badge"> <img src="https://img.shields.io/badge/-Market Research-cf352e?style=for-the-badge"> <img src="https://img.shields.io/badge/-Entrepreneurship-de3163?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Business Management-7f1734?style=for-the-badge"> <img src="https://img.shields.io/badge/-Market Research-cf352e?style=for-the-badge"> <img src="https://img.shields.io/badge/-Entrepreneurship-de3163?style=for-the-badge"> 
 
 ⚡ **Fun fact:**  I am super crazy about building products and businesses
 
