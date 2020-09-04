@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 **(Projects coming public soon ❗️)**
 
-<img src="https://img.shields.io/badge/-opencv-darkblue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Database Management-blueviolet?style=for-the-badge">  <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-opencv-darkblue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Database Management-blueviolet?style=for-the-badge">  <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Blogging Website-green?style=for-the-badge"> 
 
 
 ### What I want to learn
